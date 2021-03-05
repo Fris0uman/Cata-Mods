@@ -23,12 +23,6 @@ All credit for the original mods goes to their creators.
 
 [Fewer Farms Mod](https://github.com/chaosvolt/cdda-fewer-farms-mod)
 
-* [Axema](https://github.com/Axema)
-
-[Secronom Zombies](https://github.com/Axema/Secronom-Zombies)
-
-[Vampiric Stuff](https://github.com/Axema/Vampiric-Stuff)
-
 * [Noctifer](https://github.com/Noctifer-de-Mortem)
 
 [Cata++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod)
@@ -61,6 +55,14 @@ All credit for the original mods goes to their creators.
 
 [Extended Freeform mod](https://github.com/Fris0uman/Extended_freeform_mod)
 
+[Easy CBM Mods](https://github.com/Fris0uman/Easy-CBM-Mods)
+
+[No Stomach Mod](https://github.com/Fris0uman/No_Stomach_Mod)
+
+[No Health Mod](https://github.com/Fris0uman/No_Health_Mod)
+
+[**Tileset:** Chesthole32 Backup](https://github.com/Fris0uman/Chesthole_backup)
+
 * [EnviousBlade](https://github.com/EnviousBlade)
 
 [Pneumatic weapons](https://github.com/EnviousBlade/Pneumatic-Weapons)
@@ -73,17 +75,9 @@ All credit for the original mods goes to their creators.
 
 [Custom Bandit King Start](https://github.com/begginfokillz/customBanditKingStartMod)
 
-* [TheGoatGod](https://github.com/TheGoatGod)
-
-[Goat Mod Complilation](https://github.com/TheGoatGod/Goats-Mod-Compilation)
-
 * [FireBrandCoding](https://github.com/FirebrandCoding)
 
-[Homestead Instruments Inc](https://github.com/FirebrandCoding/HomesteadInstrumentsInc)
-
-[Private Defense](https://github.com/FirebrandCoding/PrivateDefense)
-
-[AresMGS](https://github.com/FirebrandCoding/AresMGS)
+[Service Weapon](https://github.com/FirebrandCoding/ServiceWeapon)
 
 * [KettleSwordFang](https://github.com/kettleswordfang)
 
@@ -101,7 +95,17 @@ All credit for the original mods goes to their creators.
 
 [Extra Scenarios](https://github.com/Trivega/Extra-Scenarios-for-Cataclysm-DDA)
 
- 
+* [Medecube](https://github.com/Medecube/MoDK)
+
+[MODK](https://github.com/Medecube/MoDK)
+
+* [LambdaSix](https://github.com/LambdaSix)
+
+[Wild Living (Only up to date with stable)](https://github.com/LambdaSix/Wild-Living)
+
+* [Kenan](https://github.com/Kenan2000)
+
+[New vivid Terrains, Archery Rebalancing and Renewed Pneumatics+new ammo mods - works with 0.E-2 and latest](https://discourse.cataclysmdda.org/t/new-vivid-terrains-mod-undeadpeople-tileset-sprite-support-archery-rebalancing-and-restored-pneumatics-new-ammo-mods/24024) 
 
 # Missing Mods?
-If a mod isn't listed here and you feel like it should be added, feel free to let me know; I can be reached on the Official Development Discord or Community Discord as Mom Bun (Both links are on the Subreddit, either "Discord" or "Fan Discord"), just ping me and let me know about the mod and I'll make sure to add it. 
+If a mod isn't listed here and you feel like it should be added, feel free to let me know; I can be reached on the [Official Development Discord](https://discord.gg/RVuHA5g) or [Community/Fan Discord](https://discord.gg/jRpvA34) as Mom Bun 
